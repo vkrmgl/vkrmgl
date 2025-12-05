@@ -41,8 +41,3 @@ A time-series machine learning project predicting monthly violent crime counts a
 ## 🎯 Career Interests
 
 Data Engineer • ML Engineer • Cloud Engineer
-
----
-
-### 📫 Connect
-Feel free to reach out or explore my projects here on GitHub.
