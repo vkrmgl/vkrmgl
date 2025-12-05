@@ -5,12 +5,20 @@ Currently pursuing my **Master of Information and Data Science (MIDS)** at **UC 
 
 ---
 
-## 🔧 Technical Skills
+## 🧰 Tech Stack
 
-**Languages:** Python • SQL  
-**Cloud:** AWS (IAM, RDS, VPC, Lambda, S3, EC2)  
-**Data Engineering:** ETL/ELT, data modeling, pipeline development  
-**Learning:** Apache Spark • Databricks • Machine Learning  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -33,19 +41,6 @@ A time-series machine learning project predicting monthly violent crime counts a
 ## 🎯 Career Interests
 
 Data Engineer • ML Engineer • Cloud Engineer
-
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-</p>
 
 ---
 
