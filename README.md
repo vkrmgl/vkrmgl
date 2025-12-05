@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Vikram
 
-<!--
-**vkrmgl/vkrmgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Engineer at PwC** with experience in **Python, SQL, and AWS**, focused on building reliable, scalable data systems.  
+Currently pursuing my **Master of Information and Data Science (MIDS)** at **UC Berkeley** (Expected Dec 2026), where I'm expanding into cloud-native engineering, machine learning, and large-scale data processing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+**Languages:** Python • SQL  
+**Cloud:** AWS (IAM, RDS, VPC, Lambda, S3, EC2)  
+**Data Engineering:** ETL/ELT, data modeling, pipeline development  
+**Learning:** Apache Spark • Databricks • Machine Learning  
+
+---
+
+## 🛠️ Featured Project
+
+### **📊 LA Violent Crime Forecasting**
+A time-series machine learning project predicting monthly violent crime counts across Los Angeles ZIP code areas, developed as part of the UC Berkeley MIDS program.  
+→ [View the repository](https://github.com/vkrmgl/la-violent-crime-forecasting)
+
+---
+
+## 🏆 Certifications
+
+- AWS Cloud Practitioner  
+- Alteryx Designer Core  
+- *Currently preparing for AWS Solutions Architect*
+
+---
+
+## 🎯 Career Interests
+
+Data Engineer • ML Engineer • Cloud Engineer
+
+---
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📫 Connect
+Feel free to reach out or explore my projects here on GitHub.
