@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Vikram
+# Hi, I'm Vikram
 
 I'm a **Data Engineer at PwC** with experience in **Python, SQL, and AWS**, focused on building reliable, scalable data systems.  
 Currently pursuing my **Master of Information and Data Science (MIDS)** at **UC Berkeley** (Expected Dec 2026), where I'm expanding into cloud-native engineering, machine learning, and large-scale data processing.
 
 ---
 
-## 🧰 Tech Stack
+## My Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -22,7 +22,7 @@ Currently pursuing my **Master of Information and Data Science (MIDS)** at **UC 
 
 ---
 
-## 🛠️ Featured Project
+## Project(s)
 
 ### **📊 LA Violent Crime Forecasting**
 A time-series machine learning project predicting monthly violent crime counts across Los Angeles ZIP code areas, developed as part of the UC Berkeley MIDS program.  
@@ -30,7 +30,7 @@ A time-series machine learning project predicting monthly violent crime counts a
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - AWS Cloud Practitioner  
 - Alteryx Designer Core  
@@ -38,6 +38,6 @@ A time-series machine learning project predicting monthly violent crime counts a
 
 ---
 
-## 🎯 Career Interests
+## Career Interests
 
 Data Engineer • ML Engineer • Cloud Engineer
