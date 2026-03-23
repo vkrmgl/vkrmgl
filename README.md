@@ -24,7 +24,7 @@ Currently pursuing my **Master of Information and Data Science (MIDS)** at **UC 
 
 ## Project(s)
 
-### [**📊 LA Violent Crime Forecasting**](https://github.com/vkrmgl/la-violent-crime-forecasting)
+### [**Los Angeles Violent Crime Forecasting**](https://github.com/vkrmgl/la-violent-crime-forecasting)
 A time-series machine learning project predicting monthly violent crime counts across Los Angeles ZIP code areas, developed as part of the UC Berkeley MIDS program.
 
 ---
