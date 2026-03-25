@@ -24,6 +24,9 @@ Currently pursuing my **Master of Information and Data Science (MIDS)** at **UC 
 
 ## Project(s)
 
+### [**FPL-Mentat: Fantasy Premier League Predictor[Work in Progress]**](https://github.com/vkrmgl/FPL-Mentat)
+A machine learning project with a scalable data pipeline that predicts the best players for a given game week
+
 ### [**Los Angeles Violent Crime Forecasting**](https://github.com/vkrmgl/la-violent-crime-forecasting)
 A time-series machine learning project predicting monthly violent crime counts across Los Angeles ZIP code areas, developed as part of the UC Berkeley MIDS program.
 
