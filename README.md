@@ -8,9 +8,9 @@ Data Analyst by day, Data Science Masters student at UC Berkeley by night
 [FPL-Mentat](https://github.com/vkrmgl/FPL-Mentat) — a machine learning pipeline that predicts the best Fantasy Premier League picks each game week
 
 ### Currently reading
-- Fundamentals of Data Engineering — Joe Reis
-- Nicomachean Ethics — Aristotle  
-- Dune — Frank Herbert
+- Fundamentals of Data Engineering - Joe Reis
+- Nicomachean Ethics - Aristotle  
+- Dune - Frank Herbert
 
 ### Tools I like to use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
