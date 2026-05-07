@@ -1,16 +1,8 @@
 # Hi, I'm Vikram
 
-Data Analyst by day, Data Science Masters student at UC Berkeley by night
+Data Engineer by day, Data Science Masters student at UC Berkeley by night
 
 ---
-
-### Currently building
-[FPL-Mentat](https://github.com/vkrmgl/FPL-Mentat) - A machine learning pipeline that predicts the best Fantasy Premier League picks each game week
-
-### Currently reading
-- Fundamentals of Data Engineering - Joe Reis
-- Nicomachean Ethics - Aristotle  
-- Dune - Frank Herbert
 
 ### Tools I like to use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,9 +19,18 @@ Data Analyst by day, Data Science Masters student at UC Berkeley by night
 
 ### Past Projects
 
+[FPL-Mentat](https://github.com/vkrmgl/FPL-Mentat) - A machine learning pipeline that predicts the best Fantasy Premier League picks each game week
+
 [**LA Violent Crime Forecasting**](https://github.com/vkrmgl/la-violent-crime-forecasting)
 Time-series forecasting of monthly violent crime counts across Los Angeles ZIP codes, built for UC Berkeley MIDS
 
 ---
 
-*where I'm headed:* Data Analyst → Data Engineer → ML Engineer → AI Robotics Engineer
+*where I'm headed:* Data Engineer → ML Engineer → AI Robotics Engineer
+
+---
+
+### Currently reading
+- Fundamentals of Data Engineering - Joe Reis
+- Nicomachean Ethics - Aristotle  
+- Dune - Frank Herbert
