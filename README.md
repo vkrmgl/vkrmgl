@@ -1,10 +1,13 @@
 # Hi, I'm Vikram
 
-I'm finishing up my Masters @ UC Berkeley (Graduating this december)
+I'm finishing up my Masters @ UC Berkeley (Graduating this December)
+
 *Currently:* 
-- Looking for a job as a Data Engineer
-- Going through ![Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp). Track my progress ![here](https://github.com/vkrmgl/DataEngineering-zc)
+- **Looking for a job as a Data Engineer**
+- Going through [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp). Track my progress [here](https://github.com/vkrmgl/DataEngineering-zc)
 - Working on dbt fundamentals + Snowpro Core credentials
+
+Check out [my website](https://vkrmgl.github.io/whoami/) while you're here
 
 ---
 
@@ -30,7 +33,4 @@ Time-series forecasting of monthly violent crime counts across Los Angeles ZIP c
 
 ---
 
-### Currently reading
-- Fundamentals of Data Engineering - Joe Reis
-- Nicomachean Ethics - Aristotle  
-- Dune - Frank Herbert
+I'm also reading through [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann to get a deeper perspective on System Design
