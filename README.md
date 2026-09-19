@@ -1,6 +1,10 @@
 # Hi, I'm Vikram
 
-Data Engineer by day, Data Science Masters student at UC Berkeley by night
+I'm finishing up my Masters @ UC Berkeley (Graduating this december)
+*Currently:* 
+- Looking for a job as a Data Engineer
+- Going through ![Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp). Track my progress ![here](https://github.com/vkrmgl/DataEngineering-zc)
+- Working on dbt fundamentals + Snowpro Core credentials
 
 ---
 
@@ -23,10 +27,6 @@ Data Engineer by day, Data Science Masters student at UC Berkeley by night
 
 [**LA Violent Crime Forecasting**](https://github.com/vkrmgl/la-violent-crime-forecasting)
 Time-series forecasting of monthly violent crime counts across Los Angeles ZIP codes, built for UC Berkeley MIDS
-
----
-
-*where I'm headed:* Data Engineer → ML Engineer → AI Robotics Engineer
 
 ---
 
