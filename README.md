@@ -1,9 +1,8 @@
 # Hi, I'm Vikram
 
-I'm finishing up my Masters @ UC Berkeley (Graduating this December)
-
-*Currently:* 
+**Currently:** 
 - **Looking for a job as a Data Engineer**
+- Finishing up a Masters @ UC Berkeley (Graduating December 2026)
 - Going through [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp). Track my progress [here](https://github.com/vkrmgl/DataEngineering-zc)
 - Working on dbt fundamentals + Snowpro Core credentials
 
@@ -33,4 +32,4 @@ Time-series forecasting of monthly violent crime counts across Los Angeles ZIP c
 
 ---
 
-I'm also reading through [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann to get a deeper perspective on System Design
+I'm also reading through [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann to get a deeper perspective on designing elegant data applications
