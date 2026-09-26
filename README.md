@@ -1,10 +1,10 @@
 # Hi, I'm Vikram
 
 **Currently:** 
-- **Looking for a flexible remote part time job as a Data Engineer, working with a modern toolstack (dbt, Snowflake, Kestra)**
+- **Looking for a flexible remote part time job as a Data Engineer (alongside my full-time role), working with a modern toolstack (dbt, Snowflake, Kestra)**
 - Working on my [Capstone project](https://github.com/vkrmgl/Wildlife-Capstone) to finish up my Masters @ UC Berkeley (Graduating December 2026)
-  - Going through [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ([progress tracker](https://github.com/vkrmgl/DataEngineering-zc))
-  - Building up dbt fundamentals + Snowpro Core credentials
+- Going through [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp). Track my progress [here](https://github.com/vkrmgl/DataEngineering-zc)
+- Building up dbt fundamentals + Snowpro Core credentials
 
 Check out [my website](https://vkrmgl.github.io/whoami/) while you're here
 
