@@ -25,10 +25,9 @@ Check out [my website](https://vkrmgl.github.io/whoami/) while you're here
 
 ### Past Projects
 
-[FPL-Mentat](https://github.com/vkrmgl/FPL-Mentat) - A machine learning pipeline that predicts the best Fantasy Premier League picks each game week
+[FPL-Mentat](https://github.com/vkrmgl/FPL-Mentat) - A machine learning data pipeline that I built to help me win my fantasy soccer league
 
-[**LA Violent Crime Forecasting**](https://github.com/vkrmgl/la-violent-crime-forecasting)
-Time-series forecasting of monthly violent crime counts across Los Angeles ZIP codes, built for UC Berkeley MIDS
+[**LA Violent Crime Forecasting**](https://github.com/vkrmgl/la-violent-crime-forecasting) - Time-series forecasting of monthly violent crime counts across Los Angeles ZIP codes, built for UC Berkeley MIDS
 
 ---
 
